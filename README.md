@@ -33,6 +33,7 @@ HTML code
                 </h1>
                  
                 <p class="text-small">
+                
                     HTML stands for HyperText Markup
                     Language. It is used to design
                     web pages using a markup language.
